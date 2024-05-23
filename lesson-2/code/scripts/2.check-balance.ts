@@ -9,7 +9,7 @@ import {
 } from "@solana/web3.js";
 
 (async () => {
-  const endpoint = clusterApiUrl("mainnet-beta");
+  const endpoint = clusterApiUrl('devnet');
   const connection = new Connection(endpoint, "confirmed");
 
   const publicKey = new PublicKey(

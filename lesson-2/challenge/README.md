@@ -12,6 +12,6 @@
 - Each of the above tasks should be accomplished in a single transaction, resulting in a total of four transactions.
 
 ## Submission
-- Begin your work using the code found in the `/lesson-1/code` folder.
-- Ensure all the assignment code resides in the `/lesson-1/challenge` directory. The final submission deadline is `26/05/2024`.
+- Begin your work using the code found in the `/lesson-2/code` folder.
+- Ensure all the assignment code resides in the `/lesson-2/challenge` directory. The final submission deadline is `26/05/2024`.
 Once completed, open a GitHub issue in your forked repository titled `Submission for Challenge 1`. Don't forget to include the signatures of your executed transactions run on devnet in the description.
