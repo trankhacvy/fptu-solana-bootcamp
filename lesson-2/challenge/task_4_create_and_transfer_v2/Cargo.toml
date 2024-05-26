@@ -1,0 +1,9 @@
+[package]
+name = "task_4_create_and_transfer_v2"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+solana-sdk.workspace = true
+solana-client.workspace = true
+anyhow.workspace = true
