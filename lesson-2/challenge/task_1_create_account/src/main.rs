@@ -7,6 +7,7 @@ use solana_sdk::{
     transaction::Transaction,
 };
 
+// https://explorer.solana.com/tx/4bCioB7519Sf6HdPLbK8HNamSQzaEXz78cKzAoPKsPnMPQfT8iek7Qh4YusGc6t8FjYsfmZzi8oR7j1tnPZrubzh?cluster=devnet
 fn main() -> Result<()> {
     let client = RpcClient::new("https://api.devnet.solana.com");
     let private_key = env::var("PRIVATE_KEY")?;
