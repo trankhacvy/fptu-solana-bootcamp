@@ -1,6 +1,6 @@
 [workspace]
 resolver = "2"
-members = ["task_1_create_account", "task_2_transfer"]
+members = ["task_1_create_account", "task_2_transfer", "task_3_create_and_transfer"]
 
 [workspace.dependencies]
 solana-sdk = "1.18.14"
