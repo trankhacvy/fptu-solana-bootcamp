@@ -17,5 +17,5 @@
 
 ## Submission
 - Begin your work using the code found in the `/lesson-3/code` folder.
-- Ensure all the assignment code resides in the `/lesson-3/challenge` directory. The final submission deadline is `26/05/2024`.
+- Ensure all the assignment code resides in the `/lesson-3/challenge` directory. The final submission deadline is `01/06/2024`.
 Once completed, open a GitHub issue in your forked repository titled `Submission for Challenge 2`. Don't forget to include the signatures of your executed transactions run on devnet in the description.

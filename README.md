@@ -14,7 +14,9 @@ Welcome to the FPT University Solana Bootcamp repository! This repository is a c
 
 | Lesson | Topic                                                                     | Deadline   |
 | --- | ------------------------------------------------------------------------- | ---------- |
-| 2   | [Introduction to cryptography and Solana clients](./lesson-2/challenge/)                                 | 26/05/2024 |
+| 2   | [Introduction to cryptography and Solana clients](./lesson-2/challenge/)                                 | 01/06/2024 |
+| 3   | [Using Common Solana Programs](./lesson-3/challenge/)                                 | 01/06/2024 |
+| 4   | [Solana program development](./lesson-4/challenge/)                                 | 01/06/2024 |
 
 
 Stay tuned for updates on future assignments!
