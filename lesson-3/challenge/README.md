@@ -1,5 +1,8 @@
 # Challenge 2 - Minting Your First Tokens
 
+- Slides: https://docs.google.com/presentation/d/1BfDjVveha7I7nNMVdllo8qjNQegKm_DcWSmijnVNbpM/edit?usp=sharing
+
+
 ## Task:
 - Write code (preferably in JavaScript) to mint both a fungible token (token) and a non-fungible token (NFT).
 - The tokens should have names, symbols, descriptions, and images.
@@ -16,6 +19,7 @@
 - Each of the above tasks should be accomplished in a single transaction, resulting in a total of two transactions.
 
 ## Submission
+- Submission form https://forms.gle/ZLNCMdg2gNQb18W3A
 - Begin your work using the code found in the `/lesson-3/code` folder.
 - Ensure all the assignment code resides in the `/lesson-3/challenge` directory. The final submission deadline is `01/06/2024`.
 Once completed, open a GitHub issue in your forked repository titled `Submission for Challenge 2`. Don't forget to include the signatures of your executed transactions run on devnet in the description.
